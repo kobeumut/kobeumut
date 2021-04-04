@@ -1,4 +1,8 @@
 ### Hi there 👋
+I was surprised too, but I still wanted to share my rank. More increased my enthusiasm for open source. Lists only 3 of them click to continue.
+
+[![Programming Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kobeumut&badges=4&show-avatar=true&style=--header-bg-color:%23c9c9c9;--border-radius:8px)](https://profile.codersrank.io/user/kobeumut/)
+
 
 <!--
 **kobeumut/kobeumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
