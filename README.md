@@ -1,6 +1,12 @@
 ### Hi there 👋
 I was surprised too, but I still wanted to share my rank. More increased my enthusiasm for open source. Lists only 3 of them click to continue.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kobeumut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeumut&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Kobeumut's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeumut&show_icons=true&theme=radical)
+
+
 [![Programming Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kobeumut&badges=4&show-avatar=true&style=--header-bg-color:%23c9c9c9;--border-radius:8px)](https://profile.codersrank.io/user/kobeumut/)
 
 
