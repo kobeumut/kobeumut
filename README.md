@@ -6,8 +6,11 @@ I was surprised too, but I still wanted to share my rank. More increased my enth
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeumut&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Kobeumut's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeumut&show_icons=true&theme=radical)
 
+[![Programming Activity](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kobeumut)](https://profile.codersrank.io/user/kobeumut/)
 
-[![Programming Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kobeumut&badges=4&show-avatar=true&style=--header-bg-color:%23c9c9c9;--border-radius:8px)](https://profile.codersrank.io/user/kobeumut/)
+[![Programming Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?username=kobeumut&widget=summary&badges=5&show-avatar=true&style=--header-bg-color:%23c9c9c9;--border-radius:8px)](https://profile.codersrank.io/user/kobeumut/)
+
+
 
 
 <!--
